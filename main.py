@@ -5,7 +5,7 @@ import requests
 import os
 
 # Replace with your Unsplash API access key
-UNSPLASH_ACCESS_KEY = 'xiKSNi5gaXQxGXgkL10bdR2-Au8QdbtBzZmVh53v4Sc'
+UNSPLASH_ACCESS_KEY = 'your_unsplash_access_key'
 
 # Function to fetch a random wallpaper from Unsplash using the API
 def get_random_wallpaper():
